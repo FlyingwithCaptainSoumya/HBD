@@ -1,0 +1,520 @@
+.friends-universe a
+{
+	position:absolute;
+}
+.relative
+{
+	position:relative !important
+}
+.friends-universe a:nth-child(1) {
+  left: 5%;
+  top: 10%;
+  right: 15%;
+  opacity: 1;
+}
+
+.friends-universe a:nth-child(2) {
+  left: 25%;
+  top: 10%;
+  right: 9%;
+  opacity: 1;
+}
+
+.friends-universe a:nth-child(3) {
+  left: 20%;
+  top: 40%;
+  right: 4%;
+  opacity:1;
+}
+
+.friends-universe a:nth-child(4) {
+  left: 41%;
+  top: 80%;
+  right: 23%;
+  opacity: 1;
+}
+
+.friends-universe a:nth-child(5) {
+  left: 65%;
+  top: 31%;
+  right: 58%;
+  opacity: 1;
+}
+
+.friends-universe a:nth-child(6) {
+  left: 80%;
+  top: 4%;
+  right: 26%;
+  opacity: 1;
+}
+
+.friends-universe a:nth-child(7) {
+  left: 62%;
+  top: 78%;
+  right: 20%;
+  opacity: 1;
+}
+
+
+.friends-universe a:nth-child(9) {
+  left: 53%;
+  top: 5%;
+  right: 0%;
+  opacity: 1;
+}
+
+.friends-universe a:nth-child(10) {
+  left: 85%;
+  top: 80%;
+  right: 27%;
+  opacity: 1;
+}
+
+.friends-universe a:nth-child(11) {
+  left: 9%;
+  top: 70%;
+  right: 48%;
+  opacity: 0.6;
+}
+
+.friends-universe a:nth-child(12) {
+  left: 91%;
+  top: 20%;
+  right: 0%;
+  opacity: 0.9;
+}
+
+.friends-universe a:nth-child(13) {
+  left: 30%;
+  top: 60%;
+  right: 5%;
+  opacity: 0.8;
+}
+
+.friends-universe a:nth-child(14) {
+  left: 72%;
+  top: 60%;
+  right: 2%;
+  opacity: 0.8;
+}
+
+.friends-universe a:nth-child(15) {
+  left: 84%;
+  top: 50%;
+  right: 2%;
+  opacity: 0.8;
+}
+
+.box div:nth-child(1) {
+  top: 20%;
+  left: 91%;
+  -webkit-animation: animate 11.9s linear infinite;
+          animation: animate 11.9s linear infinite;
+}
+
+.box div:nth-child(2) {
+  top: 45%;
+  left: 49%;
+  -webkit-animation: animate 10.8s linear infinite;
+          animation: animate 10.8s linear infinite;
+}
+
+.box div:nth-child(3) {
+  top: 91%;
+  left: 29%;
+  -webkit-animation: animate 2.1s linear infinite;
+          animation: animate 2.1s linear infinite;
+}
+
+.box div:nth-child(4) {
+  top: 58%;
+  left: 92%;
+  -webkit-animation: animate 4s linear infinite;
+          animation: animate 4s linear infinite;
+}
+
+.box div:nth-child(5) {
+  top: 10%;
+  left: 65%;
+  -webkit-animation: animate 7.3s linear infinite;
+          animation: animate 7.3s linear infinite;
+}
+
+.box div:nth-child(6) {
+  top: 71%;
+  left: 99%;
+  -webkit-animation: animate 3.2s linear infinite;
+          animation: animate 3.2s linear infinite;
+}
+
+.box div:nth-child(7) {
+  top: 41%;
+  left: 58%;
+  -webkit-animation: animate 2.4s linear infinite;
+          animation: animate 2.4s linear infinite;
+}
+
+.box div:nth-child(8) {
+  top: 49%;
+  left: 41%;
+  -webkit-animation: animate 10.8s linear infinite;
+          animation: animate 10.8s linear infinite;
+}
+
+.box div:nth-child(9) {
+  top: 23%;
+  left: 54%;
+  -webkit-animation: animate 5.4s linear infinite;
+          animation: animate 5.4s linear infinite;
+}
+
+.box div:nth-child(10) {
+  top: 25%;
+  left: 65%;
+  -webkit-animation: animate 10.5s linear infinite;
+          animation: animate 10.5s linear infinite;
+}
+
+.box div:nth-child(11) {
+  top: 15%;
+  left: 66%;
+  -webkit-animation: animate 4.8s linear infinite;
+          animation: animate 4.8s linear infinite;
+}
+
+.box div:nth-child(12) {
+  top: 69%;
+  left: 56%;
+  -webkit-animation: animate 11.3s linear infinite;
+          animation: animate 11.3s linear infinite;
+}
+
+.box div:nth-child(13) {
+  top: 91%;
+  left: 64%;
+  -webkit-animation: animate 11.7s linear infinite;
+          animation: animate 11.7s linear infinite;
+}
+
+.box div:nth-child(14) {
+  top: 96%;
+  left: 3%;
+  -webkit-animation: animate 8.1s linear infinite;
+          animation: animate 8.1s linear infinite;
+}
+
+.box div:nth-child(15) {
+  top: 83%;
+  left: 92%;
+  -webkit-animation: animate 4.9s linear infinite;
+          animation: animate 4.9s linear infinite;
+}
+
+.box div:nth-child(16) {
+  top: 24%;
+  left: 96%;
+  -webkit-animation: animate 2.1s linear infinite;
+          animation: animate 2.1s linear infinite;
+}
+
+.box div:nth-child(17) {
+  top: 11%;
+  left: 46%;
+  -webkit-animation: animate 5.7s linear infinite;
+          animation: animate 5.7s linear infinite;
+}
+
+.box div:nth-child(18) {
+  top: 85%;
+  left: 72%;
+  -webkit-animation: animate 3.8s linear infinite;
+          animation: animate 3.8s linear infinite;
+}
+
+.box div:nth-child(19) {
+  top: 8%;
+  left: 60%;
+  -webkit-animation: animate 6.4s linear infinite;
+          animation: animate 6.4s linear infinite;
+}
+
+.box div:nth-child(20) {
+  top: 74%;
+  left: 54%;
+  -webkit-animation: animate 2.8s linear infinite;
+          animation: animate 2.8s linear infinite;
+}
+
+.box div:nth-child(21) {
+  top: 18%;
+  left: 100%;
+  -webkit-animation: animate 4.2s linear infinite;
+          animation: animate 4.2s linear infinite;
+}
+
+.box div:nth-child(22) {
+  top: 19%;
+  left: 1%;
+  -webkit-animation: animate 6s linear infinite;
+          animation: animate 6s linear infinite;
+}
+
+.box div:nth-child(23) {
+  top: 90%;
+  left: 74%;
+  -webkit-animation: animate 3.6s linear infinite;
+          animation: animate 3.6s linear infinite;
+}
+
+.box div:nth-child(24) {
+  top: 59%;
+  left: 76%;
+  -webkit-animation: animate 8.7s linear infinite;
+          animation: animate 8.7s linear infinite;
+}
+
+.box div:nth-child(25) {
+  top: 85%;
+  left: 6%;
+  -webkit-animation: animate 10.9s linear infinite;
+          animation: animate 10.9s linear infinite;
+}
+
+.box div:nth-child(26) {
+  top: 49%;
+  left: 85%;
+  -webkit-animation: animate 11.7s linear infinite;
+          animation: animate 11.7s linear infinite;
+}
+
+.box div:nth-child(27) {
+  top: 92%;
+  left: 21%;
+  -webkit-animation: animate 7s linear infinite;
+          animation: animate 7s linear infinite;
+}
+
+.box div:nth-child(28) {
+  top: 5%;
+  left: 99%;
+  -webkit-animation: animate 7.5s linear infinite;
+          animation: animate 7.5s linear infinite;
+}
+
+.box div:nth-child(29) {
+  top: 73%;
+  left: 6%;
+  -webkit-animation: animate 11.5s linear infinite;
+          animation: animate 11.5s linear infinite;
+}
+
+.box div:nth-child(30) {
+  top: 28%;
+  left: 89%;
+  -webkit-animation: animate 6.5s linear infinite;
+          animation: animate 6.5s linear infinite;
+}
+
+.box div:nth-child(31) {
+  top: 99%;
+  left: 48%;
+  -webkit-animation: animate 3.3s linear infinite;
+          animation: animate 3.3s linear infinite;
+}
+
+.box div:nth-child(32) {
+  top: 4%;
+  left: 58%;
+  -webkit-animation: animate 2.6s linear infinite;
+          animation: animate 2.6s linear infinite;
+}
+
+.box div:nth-child(33) {
+  top: 28%;
+  left: 20%;
+  -webkit-animation: animate 9.3s linear infinite;
+          animation: animate 9.3s linear infinite;
+}
+
+.box div:nth-child(34) {
+  top: 73%;
+  left: 5%;
+  -webkit-animation: animate 4.6s linear infinite;
+          animation: animate 4.6s linear infinite;
+}
+
+.box div:nth-child(35) {
+  top: 53%;
+  left: 71%;
+  -webkit-animation: animate 11.7s linear infinite;
+          animation: animate 11.7s linear infinite;
+}
+
+.box div:nth-child(36) {
+  top: 94%;
+  left: 98%;
+  -webkit-animation: animate 4.7s linear infinite;
+          animation: animate 4.7s linear infinite;
+}
+
+.box div:nth-child(37) {
+  top: 4%;
+  left: 67%;
+  -webkit-animation: animate 5s linear infinite;
+          animation: animate 5s linear infinite;
+}
+
+.box div:nth-child(38) {
+  top: 67%;
+  left: 53%;
+  -webkit-animation: animate 8.2s linear infinite;
+          animation: animate 8.2s linear infinite;
+}
+
+.box div:nth-child(39) {
+  top: 1%;
+  left: 53%;
+  -webkit-animation: animate 4.9s linear infinite;
+          animation: animate 4.9s linear infinite;
+}
+
+.box div:nth-child(40) {
+  top: 36%;
+  left: 66%;
+  -webkit-animation: animate 5s linear infinite;
+          animation: animate 5s linear infinite;
+}
+
+.box div:nth-child(41) {
+  top: 88%;
+  left: 28%;
+  -webkit-animation: animate 5.7s linear infinite;
+          animation: animate 5.7s linear infinite;
+}
+
+.box div:nth-child(42) {
+  top: 96%;
+  left: 63%;
+  -webkit-animation: animate 3.9s linear infinite;
+          animation: animate 3.9s linear infinite;
+}
+
+.box div:nth-child(43) {
+  top: 22%;
+  left: 84%;
+  -webkit-animation: animate 9.2s linear infinite;
+          animation: animate 9.2s linear infinite;
+}
+
+.box div:nth-child(44) {
+  top: 15%;
+  left: 22%;
+  -webkit-animation: animate 7.8s linear infinite;
+          animation: animate 7.8s linear infinite;
+}
+
+.box div:nth-child(45) {
+  top: 52%;
+  left: 56%;
+  -webkit-animation: animate 2.5s linear infinite;
+          animation: animate 2.5s linear infinite;
+}
+
+.box div:nth-child(46) {
+  top: 96%;
+  left: 19%;
+  -webkit-animation: animate 7.2s linear infinite;
+          animation: animate 7.2s linear infinite;
+}
+
+.box div:nth-child(47) {
+  top: 40%;
+  left: 38%;
+  -webkit-animation: animate 7.9s linear infinite;
+          animation: animate 7.9s linear infinite;
+}
+
+.box div:nth-child(48) {
+  top: 49%;
+  left: 99%;
+  -webkit-animation: animate 10.1s linear infinite;
+          animation: animate 10.1s linear infinite;
+}
+
+.box div:nth-child(49) {
+  top: 34%;
+  left: 65%;
+  -webkit-animation: animate 4.8s linear infinite;
+          animation: animate 4.8s linear infinite;
+}
+
+.box div:nth-child(50) {
+  top: 15%;
+  left: 4%;
+  -webkit-animation: animate 10.4s linear infinite;
+          animation: animate 10.4s linear infinite;
+}
+
+.box div:nth-child(51) {
+  top: 75%;
+  left: 94%;
+  -webkit-animation: animate 10.2s linear infinite;
+          animation: animate 10.2s linear infinite;
+}
+
+.box div:nth-child(52) {
+  top: 98%;
+  left: 12%;
+  -webkit-animation: animate 6.6s linear infinite;
+          animation: animate 6.6s linear infinite;
+}
+
+.box div:nth-child(53) {
+  top: 14%;
+  left: 74%;
+  -webkit-animation: animate 5.1s linear infinite;
+          animation: animate 5.1s linear infinite;
+}
+
+.box div:nth-child(54) {
+  top: 55%;
+  left: 100%;
+  -webkit-animation: animate 3.8s linear infinite;
+          animation: animate 3.8s linear infinite;
+}
+
+.box div:nth-child(55) {
+  top: 83%;
+  left: 32%;
+  -webkit-animation: animate 11.5s linear infinite;
+          animation: animate 11.5s linear infinite;
+}
+
+.box div:nth-child(56) {
+  top: 69%;
+  left: 65%;
+  -webkit-animation: animate 8s linear infinite;
+          animation: animate 8s linear infinite;
+}
+
+.box div:nth-child(57) {
+  top: 48%;
+  left: 58%;
+  -webkit-animation: animate 10.2s linear infinite;
+          animation: animate 10.2s linear infinite;
+}
+
+.box div:nth-child(58) {
+  top: 41%;
+  left: 25%;
+  -webkit-animation: animate 7.9s linear infinite;
+          animation: animate 7.9s linear infinite;
+}
+
+.box div:nth-child(59) {
+  top: 58%;
+  left: 27%;
+  -webkit-animation: animate 7s linear infinite;
+          animation: animate 7s linear infinite;
+}
+/* # sourceMappingURL=index.css.map */

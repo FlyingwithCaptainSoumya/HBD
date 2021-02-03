@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.3/TweenMax.min.js"></script>
+    <link rel="shortcut icon" href="/cake-1.1s-163px.svg" type="image/x-icon" />
+    <title>Dynamic day</title>
+</head>
+
+<body class="home">
+    <div class="wrapper">
+
+        <!-- menu -->
+        <nav class="menu">
+            <div class="menu__logo">
+                <a href="index.html">✨</a>
+            </div>
+            <div class="menu__items">
+                <div class="menu__items-link active"><a href="index.html">Timeline</a></div>
+                <div class="menu__items-link"><a href="about.html">About</a></div>
+            </div>
+        </nav>
+
+        <!-- horizontal scroll items -->
+        <div class="container">
+            <div class="container__item container__item-header">
+                <h1 id="new">Happy Birthday🎉<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>Didi</span></h1>
+            </div>
+
+            <div class="container__item container__item-1">
+                <h1 class="container__item-title">
+                    <a href="project.html">Puja</a>
+                </h1>
+            </div>
+            <div class="container__item container__item-2">
+                <h1 class="container__item-title">
+                    <a href="project2.html">Shoot</a>
+                </h1>
+            </div>
+            <div class="container__item container__item-3">
+                <h1 class="container__item-title">
+                    <a href="project3.html">Office</a>
+                </h1>
+            </div>
+            <div class="container__item container__item-4">
+                <h1 class="container__item-title">
+                    <a href="project4.html">Photography</a>
+                </h1>
+            </div>
+            <div class="container__item container__item-5">
+                <h1 class="container__item-title">
+                    <a href="project5.html">Around the world</a>
+                </h1>
+            </div>
+        </div>
+
+    </div>
+
+    <!-- script -->
+    <script src="js/horizontal-scroll.js"></script>
+    <script>
+        var blocks = document.getElementsByClassName("container__item");
+        var container = document.getElementsByClassName("container");
+        var hs = new HorizontalScroll.default({
+            blocks: blocks,
+            container: container,
+            isAnimated: true,
+            springEffect: 0.8,
+        });
+    </script>
+</body>
+</html>
